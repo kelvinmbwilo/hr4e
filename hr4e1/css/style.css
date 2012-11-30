@@ -1,0 +1,38 @@
+/* 
+    Document   : style
+    Created on : Nov 24, 2012, 11:01:23 AM
+    Author     : kelvin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.main{
+    padding-top: 130px;
+}
+.login{
+   top: 300px;
+   width: 450px;
+   height: 300px;
+   border-radius: 10px;
+}
+
+.login #banner{
+    height: 90px;
+    background-color: red;
+    border-radius: 10px;
+    
+}
+
+#login-area{
+    height: 210px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+.height-control{
+    height: 20px;
+}

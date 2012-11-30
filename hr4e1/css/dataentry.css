@@ -1,0 +1,36 @@
+/* 
+    Document   : dataentry
+    Created on : Nov 27, 2012, 1:37:28 PM
+    Author     : kelvin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.main{
+    width: 900px;
+}
+#banner{
+    height: 150px;
+    background-color: goldenrod;
+}
+#heading{
+   height: 30px;
+   background-color: gray;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+#contents{
+}
+ #links{
+}
+#maincontents{
+    
+}
+#footer{
+    height: 25px;
+    background-color: gray;
+}
+
